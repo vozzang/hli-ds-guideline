@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.bdbfa528.js",
-    "static/js/787.fa5670d2.chunk.js": "/static/js/787.fa5670d2.chunk.js",
-    "index.html": "/index.html",
-    "main.bdbfa528.js.map": "/static/js/main.bdbfa528.js.map",
-    "787.fa5670d2.chunk.js.map": "/static/js/787.fa5670d2.chunk.js.map"
+    "main.js": "/hli-ds-guideline/static/js/main.0796c53c.js",
+    "static/js/787.fa5670d2.chunk.js": "/hli-ds-guideline/static/js/787.fa5670d2.chunk.js",
+    "index.html": "/hli-ds-guideline/index.html",
+    "main.0796c53c.js.map": "/hli-ds-guideline/static/js/main.0796c53c.js.map",
+    "787.fa5670d2.chunk.js.map": "/hli-ds-guideline/static/js/787.fa5670d2.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.bdbfa528.js"
+    "static/js/main.0796c53c.js"
   ]
 }
